@@ -32,7 +32,7 @@ Say you write your manuscripts in TeX, and you may want to be able to switch bet
 OR
 
 1. Create a new project on Overleaf
-2. Export it to GitHub (Overleaf will ask you if you want the newly created repo to be Private or Public)
+2. Export it to GitHub (Overleaf will ask you if you want the newly created repo to be private or public)
 3. Clone it locally
 4. Start working on it
 
