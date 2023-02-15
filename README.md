@@ -4,8 +4,8 @@ Mock TeX project to show how Overleaf integrates with GitHub.
 
 (Last presented to [TECE](https://github.com/tece-lab) lab on 15-02-2023.)
 
-* What is [GitHub](https://github.com)? A platform that hosts your code (including manuscripts if you want)
-* What is [Overleaf](https://www.overleaf.com)? An online TeX editor
+* What is **[GitHub](https://github.com)**? A platform that hosts your code (including manuscripts if you want)
+* What is **[Overleaf](https://www.overleaf.com)**? An online TeX editor
 
 ## Prerequisites
 
