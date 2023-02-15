@@ -4,13 +4,13 @@ Mock TeX project to show how Overleaf integrates with GitHub.
 
 (Last presented to [TECE](https://github.com/tece-lab) lab on 15-02-2023.)
 
-* What is GitHub? --> A platform that hosts your code (including manuscripts if you want)
-* What is Overleaf? --> An online TeX editor
+* What is [GitHub](https://github.com)? A platform that hosts your code (including manuscripts if you want)
+* What is [Overleaf](https://www.overleaf.com)? An online TeX editor
 
 ## Prerequisites
 
 * A GitHub account
-* A **premium** (or **old** --- prior to v2) [Overleaf](https://www.overleaf.com) account (you can get premium with your RUG account)
+* A **premium** (or **old** --- prior to v2) Overleaf account (you can get premium with your RUG account)
 * A TeX compiler (for offline work, e.g. [TeXStudio](https://texstudio.org))
 
 ## How to
