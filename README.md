@@ -8,10 +8,11 @@ Mock TeX project to show how Overleaf integrates with GitHub.
 
 * What is **[GitHub](https://github.com)**? A platform that hosts your code (including manuscripts if you want)
 * What is **[Overleaf](https://www.overleaf.com)**? An online TeX editor
+* What is **[TeX](https://en.wikipedia.org/wiki/TeX)**? A scripting language for writing manuscripts
 
 ## Why?
 
-You may want to be able to switch between working on your manuscript with your collaborators or your supervisors online, making use of Overleaf's commenting tools, for example, while being able to work online on the same project and not be reliant on the Internet from time to time. You may also like Overleaf but still want your manuscript to live close to the rest of your project (e.g. code, data). If that is your case you may like thee GitHub integration tool offered by Overleaf. Here is a *very* short description of how it works (this repo was more designed to be used as an example during a live tutorial).
+Say you write your manuscripts in TeX, and you may want to be able to switch between working on your manuscript with your collaborators or your supervisors online, making use of Overleaf's commenting tools, for example, while being able to work online on the same project and not be reliant on the Internet from time to time. You may also like Overleaf but still want your manuscript to live close to the rest of your project (e.g. code, data). If that is your case you may like thee GitHub integration tool offered by Overleaf. Here is a *very* short description of how it works (this repo was more designed to be used as an example during a live tutorial).
 
 **Note:** Hosting your manuscript on GitHub does not mean it is public for everyone to see before publication! As for any repo, you can set the visibility to **Private** instead of **Public**.
 
